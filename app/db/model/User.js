@@ -23,7 +23,6 @@ const UserSchema = new Schema({
     type: String,
     required: true,
   },
-  organisationId: Number,
   lastConnection: {
     type: Date,
     required: true,
