@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Hugo Cloutier",
+        "emailAddress": "hugo.cloutier@cegeptr.qc.ca",
+        "username": "hcloutier",
+        "password": "Admin123!",
+        "role": "001"
+    },
+    {
+        "name": "Vincent Baylly",
+        "emailAddress": "vincent.baylly@cegeptr.qc.ca",
+        "username": "vbaylly",
+        "password": "Admin123!",
+        "role": "002"
+    },
+    {
+        "name": "Yassine El Bouraqadi",
+        "emailAddress": "yassine@cegeptr.qc.ca",
+        "username": "yelbouraqadi",
+        "password": "Admin123!",
+        "role": "002"
+    },
+    {
+        "name": "Manager1",
+        "emailAddress": "manager@awesomecompany.ca",
+        "username": "manager1",
+        "password": "Admin123!",
+        "role": "003"
+    },
+    {
+        "name": "Etudiant1",
+        "emailAddress": "etudiant1@awesomecegep.ca",
+        "username": "etudiant1",
+        "password": "Admin123!",
+        "role": "004"
+    }
+]
